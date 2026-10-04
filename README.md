@@ -6,7 +6,7 @@ A structured, opinionated path from zero to senior backend engineer in 2026. No 
 
 ---
 
-## Phase 1: Foundations (0-3 months)
+## Phase 0: Foundations (0-3 months)
 
 ### Pick One Language (and master it)
 
@@ -43,5 +43,9 @@ A structured, opinionated path from zero to senior backend engineer in 2026. No 
 - [ ] Rebasing vs merging
 - [ ] Conventional commits
 - [ ] Pull request workflows
+
+
+### Phase 0 projects ⭐
+>  Projects: [phase0-projects]([https://github.com/atryx/git-cheatsheet](https://github.com/vanshkalawatia/Phase-0-The-Absolute-Basics))
 
 > 📘 See also: [git-cheatsheet](https://github.com/atryx/git-cheatsheet)
