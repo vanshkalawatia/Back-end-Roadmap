@@ -12,7 +12,7 @@ A structured, opinionated path from zero to senior backend engineer in 2026. No 
 
 | Language | Best For | 2026 Job Market |
 |----------|----------|-----------------|
-| **Go** ⭐ | Microservices, cloud-native, CLI tools | Very high demand, top backend salaries |
+| **Go**  | Microservices, cloud-native, CLI tools | Very high demand, top backend salaries |
 | ***Python*** ⭐ | AI/ML backends, data pipelines, rapid prototyping | Massive demand (AI boom) |
 | **Java** | Enterprise, fintech, Android backends | Steady, huge legacy + new projects |
 | **C#/.NET** | Enterprise, Azure ecosystem, game backends | Growing, especially with .NET 9+ |
