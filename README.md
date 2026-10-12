@@ -31,7 +31,7 @@ A structured, opinionated path from zero to senior backend engineer in 2026. No 
 
 ### Computer Science Fundamentals
 
-- [] **Big O notation** — time and space complexity
+- [ ] **Big O notation** — time and space complexity
 - [ ] **Data structures** — arrays, hash maps, trees, graphs, heaps
 - [ ] **Algorithms** — sorting, searching, BFS/DFS, dynamic programming basics
 - [ ] **Networking** — HTTP/HTTPS, TCP/IP, DNS, how the internet works
