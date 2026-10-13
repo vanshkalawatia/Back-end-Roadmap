@@ -48,4 +48,4 @@ A structured, opinionated path from zero to senior backend engineer in 2026. No 
 ### Phase 0 projects ⭐
 >  Projects: [phase0-projects](https://github.com/vanshkalawatia/Phase-0-The-Absolute-Basics) & [phase1-projects](https://github.com/vanshkalawatia/Phase-1-First-Real-Tools)
 
-> 📘 See also: [git-cheatsheet](https://github.com/atryx/git-cheatsheet)
+> 📘 See also: ⭐ [git-cheatsheet](https://github.com/atryx/git-cheatsheet)
